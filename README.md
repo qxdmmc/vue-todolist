@@ -1,4 +1,4 @@
-# 马卡龙 TodoList
+# TodoList
 
 这是一个使用 Vue 3 + Vite + TypeScript 构建的响应式待办事项管理页面，采用马卡龙色系设计。
 
